@@ -1,0 +1,51 @@
+#Header
+{
+    background-color: black;
+    height: 40px;
+}
+#Header a{
+    
+    color: rgb(143, 235, 240);
+    padding-right: 30px;
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 7px;
+    font-size:large;
+}
+#Header #menu
+{   
+    float: right;
+}
+#Header a:hover{
+    color: white;
+}
+#image
+{
+    background-color: rgb(231, 121, 121);
+    height: 200px;
+    margin-top: 20px;
+}
+#Titlebar
+{
+    background-color: olive;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 20%;
+    float: left;
+}
+#Maincontent
+{
+    background-color:lightgoldenrodyellow;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 79%;
+    float: left;
+}
+#Footer
+{
+    background-color: rgb(96, 92, 92);
+    height: 100px;
+    clear: both;
+}
